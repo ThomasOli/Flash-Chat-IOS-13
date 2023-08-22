@@ -1,4 +1,4 @@
-# -Chat-Me-IOS-13
+# -FlashChat
 
 Whatsapp clone created using Swift and Firebase. 
 
