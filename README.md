@@ -4,7 +4,7 @@ Whatsapp clone created using Swift and Firebase.
 
 ## Description:
 
-Flash-Chat-IOS-13 is a cutting-edge iOS messaging application crafted in Swift, designed to redefine the way users connect and communicate. Seamlessly integrated with Firebase, this app leverages Firebase Cloud Firestore for cloud-based NoSQL data storage and Firebase Authentication to ensure secure and reliable user registration and login.
+Flash-Chat-IOS-13 is a iOS messaging application crafted in Swift, designed to redefine the way users connect and communicate. Seamlessly integrated with Firebase, this app leverages Firebase Cloud Firestore for cloud-based NoSQL data storage and Firebase Authentication to ensure secure and reliable user registration and login.
 
 ## Key Features:
 
